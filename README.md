@@ -1,2 +1,2 @@
-# data_science_bootcamp2020
-This repo contains all of my work for the data science bootcamp
+# National Science Foundation: Data Science Bootcamp 2020
+-This repo contains all of the work I did during the bootcamp 
